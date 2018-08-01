@@ -1,0 +1,26 @@
+30 days of Node JS
+
+--few things to explore and learn
+
+DAY 1
+
+platforms vs frameworks
+Is Node JS a platform? Yes it is
+NPM is the largest eco system of open source libraries
+Learned http module. create server using node http module
+
+
+Day 7
+node package manager allows you to manage the dependencies of your projects
+- use global installation when you have to use it via command line. Other wise use local installation.
+
+
+Day 8
+Publishing Package on Node.JS
+1. Create an account on npm
+2. Create your package. Ensure it must has package.json file.
+3. npm login
+4. npm publish
+5. 
+
+
