@@ -1,11 +1,11 @@
 Finding a Suitable Node JS Candidate.
 
 Problem Solving is required for any candidate. He must be good in algorithms and data structures.
-JavaScript is the base of for all other frameworks. People must be proficient in it. 
+JavaScript is the base of all other frameworks. Candidate must be proficient in it. 
 
 1. Basic JavaScript Questions:
 2. Problem Solving - 
- Should be able to answer few questions I have listed here.
+ Should be able to answer few questions I have listed here[TODO].
 3. Node JS Interview Questions
 	3.1 What is a promise?Explain with examples.
 
