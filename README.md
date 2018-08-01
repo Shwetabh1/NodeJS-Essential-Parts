@@ -5,4 +5,4 @@
   <br>
 </div>
 
-This repository will be completed by 25th July, 2018.
+This is the initial draft of the articles and codes yet to come. This repository will be completed by August, 2018.
