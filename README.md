@@ -5,4 +5,4 @@
   <br>
 </div>
 
-This is the initial draft of the articles and codes yet to come. This repository will be completed by August, 2018.
+<i>This is the initial draft of the articles and codes yet to come.</i>
